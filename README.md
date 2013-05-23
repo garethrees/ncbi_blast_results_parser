@@ -1,5 +1,7 @@
 # NCBI Blast Results Parser
 
+[![Code Climate](https://codeclimate.com/github/garethrees/ncbi_blast_results_parser.png)](https://codeclimate.com/github/garethrees/ncbi_blast_results_parser)
+
 Parses useful information from the HTML response of an NCBI Blast.
 
 ## Current Methods
